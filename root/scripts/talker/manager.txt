@@ -6445,6 +6445,9 @@ Response L4D1PlayerWarnMegaMobManager
 	scene "scenes/Manager/Incoming03.vcd" predelay "2.5,3.5" //Incoming!
 	scene "scenes/Manager/Incoming03.vcd" predelay "2.5,3.5" //Incoming!
 	scene "scenes/Manager/Incoming04.vcd" predelay "2.5,3.5" odds 2 //Oh shit, here they come!
+	scene "scenes/Manager/ReactionNegative01.vcd" predelay "2.5,3.5" //Uh oh.
+	scene "scenes/Manager/ReactionNegative04.vcd" predelay "2.5,3.5" //ah, Jesus.
+	scene "scenes/Manager/StayTogether03.vcd" predelay "2.5,3.5" //Keep together!
 }
 Rule L4D1PlayerWarnMegaMobManager
 {

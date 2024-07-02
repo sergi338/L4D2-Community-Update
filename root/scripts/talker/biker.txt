@@ -7734,6 +7734,14 @@ Response L4D1PlayerWarnMegaMobBiker
 	scene "scenes/Biker/MiniFinaleGetReady02.vcd" predelay "2.5,3.5" odds 5 //Bring it on!
 	scene "scenes/Biker/MiniFinaleGetReady03.vcd" predelay "2.5,3.5" odds 5 //Here they come!
 	scene "scenes/Biker/MiniFinaleGetReady04.vcd" predelay "2.5,3.5" odds 5 //They're coming!
+	scene "scenes/Biker/ReactionNegative04.vcd" predelay "2.5,3.5" //Holy jesus.
+	scene "scenes/Biker/ReactionNegative05.vcd" predelay "2.5,3.5" //Shit
+	scene "scenes/Biker/ReactionNegative06.vcd" predelay "2.5,3.5" //Ah shit.
+	scene "scenes/Biker/ReactionNegative09.vcd" predelay "2.5,3.5" //Ahhhhh.
+	scene "scenes/Biker/ReactionNegative10.vcd" predelay "2.5,3.5" //Effin hell.
+	scene "scenes/Biker/ViolenceAwe03.vcd" predelay "2.5,3.5" //Holy crap.
+	scene "scenes/Biker/ViolenceAwe05.vcd" predelay "2.5,3.5" //Holy shit...
+	scene "scenes/Biker/ViolenceAwe07.vcd" predelay "2.5,3.5" //<laugh>Whoa-ho-ho, YEAH!
 }
 Rule L4D1PlayerWarnMegaMobBiker
 {

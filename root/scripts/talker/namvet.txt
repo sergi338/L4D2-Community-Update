@@ -5872,6 +5872,10 @@ Response L4D1PlayerWarnMegaMobNamVet
 	scene "scenes/NamVet/Incoming04.vcd" predelay "2.5,3.5" odds 1 //Bookoo crazies inbound!
 	scene "scenes/NamVet/Incoming05.vcd" predelay "2.5,3.5" //HERE THEY COME!
 	scene "scenes/NamVet/Incoming07.vcd" predelay "2.5,3.5" //INCOMING!
+	scene "scenes/NamVet/ReactionNegative07.vcd" predelay "2.5,3.5" //God dammit
+	scene "scenes/NamVet/ReactionNegative09.vcd" predelay "2.5,3.5" //Son of a bitch
+	scene "scenes/NamVet/StayTogether11.vcd" predelay "2.5,3.5"odds 3 //We've got to stay together.
+	scene "scenes/NamVet/TeamKillAccident04.vcd" predelay "2.5,3.5" //Watch it, Watch it!
 }
 Rule L4D1PlayerWarnMegaMobNamVet
 {
